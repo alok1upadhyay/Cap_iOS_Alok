@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in static ApiHandler.processRequest&lt;A&gt;(type:request:signinCompletionHandler:):ApiHandler.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static ApiHandler.getUrlRequest(url:httpMethod:postData:header:):ApiHandler.swift">
+      </ContextState>
+      <ContextState
+         contextName = "BookListViewController.tableView(_:numberOfRowsInSection:):BookListViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SignInViewModel.getDataFromService&lt;A&gt;(url:type:httpMethod:header:param:completionBlock:):SignInViewModel.swift">
+      </ContextState>
+      <ContextState
+         contextName = "BookCellTableViewCell.init(style:reuseIdentifier:):BookCellTableViewCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "(InterviewPrep.BookCellTableViewCell)self">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
